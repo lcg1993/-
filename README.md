@@ -9,6 +9,9 @@ how2j：https://how2j.cn
        https://how2j.cn/k/hutool/hutool-brief/1930.html  
 廖雪峰教学：https://www.liaoxuefeng.com/  
 
+### 大佬分享的项目
+https://github.com/arcomu/vue-vant-store  
+https://github.com/newbee-ltd/newbee-mall-vue3-app  
 
 
 ## SpringCloud详解网站
